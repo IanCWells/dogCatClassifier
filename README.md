@@ -1,3 +1,8 @@
+This is an example of how to quickly deploy an AI image classifier.  
+
+The actual model is hosted on the following:
+https://huggingface.co/spaces/IanCWells/dogvscat
+
 ---
 title: Dogvscat
 emoji: 👀
